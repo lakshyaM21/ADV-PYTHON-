@@ -1,5 +1,6 @@
 """ 
 
+
 NAME - LAKSHYA MANSHARAMANI 
 CSE- AIML , SECTION- B 
 ENROLLEMENT NO. - 0157AL231117
@@ -425,6 +426,7 @@ for i in range(len(arr)):
         max_diff = max(max_diff, arr[j] - arr[i])
 
 print(max_diff)
+
 
 
 
